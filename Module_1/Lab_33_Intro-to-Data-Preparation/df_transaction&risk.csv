@@ -1,0 +1,31 @@
+,TransactionID,ClientID,Amount,Department,Risk,BirthYear_imputed,Profession_imputed,Risk_numerical,Amount_categorical
+0,4.0,34985.0,5670.0,78.0,Low,1923.0,Manager,1,Low
+1,16.0,34997.0,2399090.0,78.0,High,1923.0,Developer,3,High
+2,25.0,35006.0,33050.0,78.0,High,1923.0,HR,3,High
+3,12.0,34993.0,23430.0,78.0,Low,1939.0,Professor,1,Medium High
+4,21.0,35002.0,16770.0,78.0,Low,1939.0,Manager,1,Medium Low
+5,11.0,34992.0,21210.0,78.0,Medium,1944.0,Researcher,2,Medium High
+6,20.0,35001.0,14550.0,78.0,Medium,1944.0,Student,2,Medium Low
+7,3.0,34984.0,3450.0,78.0,Medium,1945.0,Student,2,Low
+8,19.0,35000.0,12330.0,78.0,High,1949.0,Barmen,3,Low
+9,9.0,34990.0,16770.0,78.0,Medium,1953.0,Manager,2,Medium Low
+10,8.0,34989.0,14550.0,78.0,High,1958.0,HR,3,Medium Low
+11,6.0,34987.0,10110.0,78.0,Medium,1967.0,Manager,2,Low
+12,15.0,34987.0,30090.0,78.0,Low,1967.0,Manager,1,High
+13,24.0,34989.0,27870.0,78.0,Medium,1967.0,HR,2,Medium High
+14,27.0,35008.0,41930.0,78.0,Low,1967.0,BDM,1,High
+15,28.0,35008.0,46370.0,78.0,High,1967.0,Unknown,3,High
+16,29.0,35008.0,50810.0,78.0,Medium,1976.0,Unknown,2,High
+17,5.0,34986.0,7890.0,78.0,High,1978.0,HR,3,Low
+18,17.0,34998.0,7890.0,78.0,Medium,1978.0,Student,2,Low
+19,10.0,34991.0,18990.0,78.0,Low,1988.0,BDM,1,Medium Low
+20,30.0,34991.0,55250.0,78.0,High,1988.0,BDM,3,High
+21,18.0,34999.0,10110.0,78.0,Low,1988.0,Student,1,Low
+22,23.0,34988.0,25650.0,78.0,Low,1999.0,Manager,1,Medium High
+23,14.0,34995.0,27870.0,78.0,Low,1999.0,Hairdresser,1,Medium High
+24,26.0,35007.0,37490.0,78.0,Medium,1999.0,Student,2,High
+25,1.0,34982.0,12900.0,78.0,Low,2013.0,Student,1,Medium Low
+26,2.0,34983.0,1230.0,78.0,High,2015.0,Barmen,3,Low
+27,13.0,34994.0,25650.0,78.0,Medium,2017.0,Driver,2,Medium High
+28,22.0,34987.0,18990.0,78.0,High,1967.0,Sailer,3,Medium Low
+29,7.0,34988.0,12330.0,78.0,Medium,1967.0,Manager,2,Low
